@@ -15,3 +15,7 @@ CSS ASSIGNMENTS.....
 
 ---> New cssfile.css file is added......
 >>>>>>> css-assignments
+
+
+JS ASSIGNMENTS 
+------> new js file is added

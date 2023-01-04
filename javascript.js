@@ -7,5 +7,7 @@ var stringname=new String("good");
 document.write(stringname); 
 var stringname=new String("work");  
 document.write(stringname); 
+var stringname=new String("work");  
+document.write(stringname); 
 </script>  
 
